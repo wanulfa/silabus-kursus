@@ -33,6 +33,7 @@ Sesi ini juga akan membahas tentang cara membangun database sendiri dalam satu l
 ## Sesi 4: Visualisasi Data
 Sesi ini akan membahas prinsip dasar dalam memvisualisasikan data. Apa yang boleh dan jangan dilakukan. Kita juga akan belajar langsung tentang beberapa tools yang bisa dipakai untuk membuat visualisasi yang interaktif.
 Dalam sesi ini, akan dipelajari beberapa online tools gratis: Datawrapper, Infogram, Tableau, Flourish, CartoDB.
+
 <b>Bacaan</b>:
 - http://www.maartenlambrechts.com/2015/05/27/alberto-cairo-make-it-visual-and-people-will-understand.html
 - https://datajournalismhandbook.org/1.0/en/delivering_data_7.html
@@ -51,10 +52,10 @@ Contoh peta interaktif di laman Tirto.id
 Satu hal penting yang seringkali terabaikan dalam jurnalisme data adalah transparansi. Jurnalis harus bisa menjelaskan kepada pembaca dari mana ia mendapatkan data dan bagaimana ia mengolahnya. Memberikan opsi bagi pembaca untuk bisa mengunduh data mentah sebelum diolah juga penting dilakukan. Dengan begitu, fakta dan temuan dari hasil analisis si jurnalis bisa diuji.
 
 GitHub menjadi salah satu platform yang bisa digunakan jurnalis data untuk mencapai tujuan transparansi itu. Ia biasanya dipakai para programmer untuk berbagi kode yang mereka tulis dalam proyek tertentu. Dalam pertemuan ini, kita akan belajar tentang bagaimana jurnalis bisa memanfaatkan GitHub dalam pekerjaan sehari-hari.
+
 <b>Bacaan</b>:
 - GitHub Tutorials and Resources for Journalist
 - Getting GitHub: Why journalists should know and use the social coding site
-
 <b>Pekerjaan Rumah</b>: Buat satu repository yang berisi tentang bagaimana Anda menemukan, menganalisis, dan menuliskan berita dari data CPJ (sesi sebelumnya).
 
 ## Sesi 7: Otomasi
@@ -64,6 +65,7 @@ Perkembangan teknologi memungkinkan jurnalis untuk menyerahkan pekerjaan remeh t
 
 ## Sesi 8: Statistical Thinking dan Memahami Survei
 Memahami statistik menjadi penting bagi wartawan agar tidak membuat kesimpulan keliru dari satu dataset dan menyebarkan kekeliruan. Ia juga penting agar wartawan bisa lebih kritis dalam membaca dan menuliskan kembali hasil riset orang atau lembaga lain. Pada sesi ini, akan dibahas juga tentang bagaimana membuat survei sebagai bagian dari reportase.
+
 <b>Bacaan</b>:
 - How to Lie with Statistics (Darrel Huff): Buku versi PDF akan dibagikan.
 - Naked Statistics (Charles Weelan): Buku versi PDF akan dibagikan.
@@ -83,6 +85,9 @@ Sesi ini juga akan mengenalkan peserta pada Python dan R.
 
 ## Sesi 10: Membahas Proyek Liputan Berbasis Data dan Evaluasi
 Pada sesi terakhir ini, kita akan mendiskusikan rencana liputan berbasis data dari tiap-tiap peserta. Tutor dan peserta lain akan menanggapi dan memberi masukan.
+
+
+
 
 
 ## Biografi tutor:
