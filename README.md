@@ -13,6 +13,7 @@ Setiap pekan, akan ada pekerjaan rumah untuk menindaklanjuti materi dan latihan 
 Perkenalan, pembahasan silabus dan memahami hal-hal mendasar tentang Jurnalisme Data. Memahami perbedaan data terstruktur dan tidak terstruktur. Berkenalan dengan computational thinking atau cara berpikir komputer.
 
 <b>Bacaan</b>: Data Journalism Handbook Chapter 1, Data Journalism Heist (Paul Bradshaw), Jurnalisme Presisi
+
 <b>Pekerjaan Rumah</b>: Temukan tiga laporan jurnalisme (medium bebas, boleh online, cetak, radio, atau video) yang berpotensi menjadi lebih mendalam dengan menggunakan data-data tertentu. Pikirkan di mana kira-kira Anda bisa memperoleh datanya. Presentasikan temuan tugas tersebut pada sesi 2.
 
 ## Sesi 2: Menemukan Cerita Lewat Spreadsheet
