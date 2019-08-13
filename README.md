@@ -71,6 +71,7 @@ Memahami statistik menjadi penting bagi wartawan agar tidak membuat kesimpulan k
 - Naked Statistics (Charles Weelan): Buku versi PDF akan dibagikan.
 - How Not to be Wrong (Jordan Ellenberg): Buku versi PDF akan dibagikan.
 - https://medium.com/@carmen.aguilar.garcia/statistics-for-journalists-what-experts-think-we-should-learn-to-work-with-numbers-a3d6a2e8b562
+
 <b>Pekerjaan Rumah</b>: Selesaikan membaca bahan bacaan pada sesi ini dan persiapkan diri untuk sesi berikutnya dengan belajar mandiri dasar-dasar HTML, Javascript, dan CSS.
 
 ## Sesi 9: Scraping dan Coding (Waktu untuk sesi ini lebih panjang, 3 jam)
